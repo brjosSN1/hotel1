@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Hotel" max_length="40" name="x_hotel_hotel" sizeclass="1" type="collection">
+        <element label="Address" max_length="100" name="address" type="string"/>
+        <element label="City" max_length="100" name="city" type="string"/>
+        <element label="Country" max_length="100" name="country" type="string"/>
+        <element label="Hotel ID" max_length="10" name="hotel_id" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element label="Zipcode" max_length="10" name="zipcode" type="string"/>
+    </element>
+</database>
