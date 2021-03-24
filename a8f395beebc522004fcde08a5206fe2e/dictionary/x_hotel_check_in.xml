@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Check-In" max_length="40" name="x_hotel_check_in" sizeclass="8" type="collection">
+    <element label="Check-In" max_length="40" name="x_hotel_check_in" sizeclass="0" type="collection">
         <element label="Check-In date" max_length="40" name="checkindate" type="glide_date"/>
         <element label="Comments" max_length="500" name="comments" type="string"/>
-        <element display="true" label="ReservationID" max_length="15" name="reservationid" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Checkin Number" max_length="40" name="number" type="string"/>
+        <element label="Reservation" mandatory="true" max_length="32" name="reservation" reference="x_hotel_reservation" type="reference"/>
         <element label="Updated-On" max_length="40" name="updated_on" type="glide_date_time"/>
         <element dynamic_ref_qual="024a28f22fe2601029883e0ef699b6cc" label="Guest" max_length="32" name="x_hotel_check_in_guest" reference="x_hotel_guest" reference_qual="javascript:'sys_idIN'+x_hotel.guestsWithReservations()" type="reference" use_reference_qualifier="dynamic"/>
         <element label="Room" max_length="32" name="x_hotel_check_in_room" reference="x_hotel_room" type="reference"/>
         <index name="index">
-            <element name="x_hotel_check_in_guest"/>
+            <element name="reservation"/>
         </index>
         <index name="index2">
+            <element name="x_hotel_check_in_guest"/>
+        </index>
+        <index name="index3">
             <element name="x_hotel_check_in_room"/>
         </index>
     </element>
