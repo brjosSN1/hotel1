@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Unix Machines-Query Results</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Unix Machines-Query Results</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Query Builder Results" name="Query Builder Results">2a1ab5c7db7200101d43294648961941</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-26 15:19:41</sys_created_on>
+        <sys_id>afbf80072f03201029883e0ef699b6c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unix Machines-Query Results</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_wizard_answer_afbf80072f03201029883e0ef699b6c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-26 15:19:41</sys_updated_on>
+        <table/>
+        <target_url>x_hotel_u_cmdb_qb_result_d361f374277dfc3fbd8ca464ac66240559211370.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+        <file_path/>
+        <instance_id>8ee0d731db8a7348b847ac44d496196c</instance_id>
+        <instance_name>dev87590</instance_name>
+        <name>sys_wizard_answer_afbf80072f03201029883e0ef699b6c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Unix Machines-Query Results</answer><button_label/><dependent_value/><element/><name>Unix Machines-Query Results</name><next_question/><order>100</order><payload_name/><question display_value="Query Builder Results" name="Query Builder Results">2a1ab5c7db7200101d43294648961941</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-26 15:19:41</sys_created_on><sys_id>afbf80072f03201029883e0ef699b6c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Unix Machines-Query Results</sys_name><sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package><sys_policy/><sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope><sys_update_name>sys_wizard_answer_afbf80072f03201029883e0ef699b6c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-26 15:19:41</sys_updated_on><table/><target_url>x_hotel_u_cmdb_qb_result_d361f374277dfc3fbd8ca464ac66240559211370.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1093028096</payload_hash>
+        <record_name>Unix Machines-Query Results</record_name>
+        <reverted_from/>
+        <source>ddfbbc2d2f07201029883e0ef699b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-26 15:19:41</sys_created_on>
+        <sys_id>a7bf80072f03201029883e0ef699b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1786f1ea1150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-26 15:19:41</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>efbf8007da032010f351c57c6e4595c1</update_guid>
+        <update_guid_history>efbf8007da032010f351c57c6e4595c1:1093028096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 19:33:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>05c911db8f19487080319ea3a8355440</sys_id>
+        <sys_metadata>afbf80072f03201029883e0ef699b6c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Unix Machines-Query Results</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_parent display_value="Query Builder Results">2a1ab5c7db7200101d43294648961941</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_scope_delete display_value="">22bd584cf94c499097f5c2db3e921c40</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_afbf80072f03201029883e0ef699b6c0</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_afbf80072f03201029883e0ef699b6c0">a7bf80072f03201029883e0ef699b6c2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 19:33:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

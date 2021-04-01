@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>536f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>428aecb62f47201029883e0ef699b6f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,111 +18,139 @@
             <element>reservation</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>d36f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>c28aecb62f47201029883e0ef699b6f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>checkindate</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>576f56162f83201029883e0ef699b6cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_hotel_check_in_guest</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>d76f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>468aecb62f47201029883e0ef699b6f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checkindate</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>c68aecb62f47201029883e0ef699b6f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>planned_checkout</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>4a8aecb62f47201029883e0ef699b6f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>5b6f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>ca8aecb62f47201029883e0ef699b6f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_hotel_check_in_room.floor</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>db6f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>4e8aecb62f47201029883e0ef699b6f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>x_hotel_check_in_room</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>5f6f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>ce8aecb62f47201029883e0ef699b6f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_checkout</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>428aecb62f47201029883e0ef699b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>df6f56162f83201029883e0ef699b6cd</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>c28aecb62f47201029883e0ef699b6f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-24 17:52:00</sys_created_on>
-            <sys_id>536f56162f83201029883e0ef699b6ce</sys_id>
+            <sys_created_on>2021-03-25 22:38:14</sys_created_on>
+            <sys_id>468aecb62f47201029883e0ef699b6f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_hotel_check_in" sys_domain="global" view="Default view">2b4d34d1db1710101d43294648961993</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-24 17:52:00</sys_updated_on>
+            <sys_updated_on>2021-03-25 22:38:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
