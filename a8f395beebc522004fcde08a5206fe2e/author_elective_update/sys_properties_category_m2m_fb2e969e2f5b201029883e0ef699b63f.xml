@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Room Maintenance">d7a2bd5a2fd7201029883e0ef699b683</category>
+        <order>1</order>
+        <property display_value="x_hotel.maintenance.notice" name="x_hotel.maintenance.notice">7ded929e2f5b201029883e0ef699b67b</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 04:02:17</sys_created_on>
+        <sys_id>fb2e969e2f5b201029883e0ef699b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hotel.maintenance.notice.Room Maintenance</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_fb2e969e2f5b201029883e0ef699b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 04:02:17</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+        <file_path/>
+        <instance_id>8ee0d731db8a7348b847ac44d496196c</instance_id>
+        <instance_name>dev87590</instance_name>
+        <name>sys_properties_category_m2m_fb2e969e2f5b201029883e0ef699b63f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Room Maintenance">d7a2bd5a2fd7201029883e0ef699b683</category><order>1</order><property display_value="x_hotel.maintenance.notice" name="x_hotel.maintenance.notice">7ded929e2f5b201029883e0ef699b67b</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-06 04:02:17</sys_created_on><sys_id>fb2e969e2f5b201029883e0ef699b63f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_hotel.maintenance.notice.Room Maintenance</sys_name><sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package><sys_policy/><sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope><sys_update_name>sys_properties_category_m2m_fb2e969e2f5b201029883e0ef699b63f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-06 04:02:17</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-600075356</payload_hash>
+        <record_name>x_hotel.maintenance.notice.Room Maintenance</record_name>
+        <reverted_from/>
+        <source>ddfbbc2d2f07201029883e0ef699b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 04:02:17</sys_created_on>
+        <sys_id>7b2e969e2f5b201029883e0ef699b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178a55867030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 04:02:17</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>b32e969ee25b2010e9103cc378097d43</update_guid>
+        <update_guid_history>b32e969ee25b2010e9103cc378097d43:-600075356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 04:04:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>36d0ce4e6a3a4a2897fda89a008b3a40</sys_id>
+        <sys_metadata>fb2e969e2f5b201029883e0ef699b63f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hotel.maintenance.notice.Room Maintenance</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_scope_delete display_value="">22bd584cf94c499097f5c2db3e921c40</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_fb2e969e2f5b201029883e0ef699b63f</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_fb2e969e2f5b201029883e0ef699b63f">7b2e969e2f5b201029883e0ef699b643</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-06 04:04:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
